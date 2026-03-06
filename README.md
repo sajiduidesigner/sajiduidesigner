@@ -1,4 +1,4 @@
-# Hi there, I'm a UI/Frontend Developer & Project Manager 👋
+# Hi there, I'm a UI/Frontend Developer & UI/UX Designer 👋
 
 With 15+ years of experience, I specialize in bridging the gap between pixel-perfect UI development and strategic project execution. I build fluid, highly interactive web experiences and high-converting landing pages.
 
